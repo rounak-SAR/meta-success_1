@@ -1,0 +1,15 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shieldGold" x1="32" y1="8" x2="32" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE07A"/>
+      <stop offset="1" stop-color="#F3B51B"/>
+    </linearGradient>
+    <linearGradient id="shieldInner" x1="32" y1="15" x2="32" y2="49" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF2B0"/>
+      <stop offset="1" stop-color="#FFD24D"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 8L49 14V28C49 39.3 41.9 49.6 32 56C22.1 49.6 15 39.3 15 28V14L32 8Z" fill="url(#shieldGold)"/>
+  <path d="M32 13L45 17.7V28C45 36.5 39.8 44.2 32 49.5C24.2 44.2 19 36.5 19 28V17.7L32 13Z" fill="url(#shieldInner)"/>
+  <path d="M32 23L34.6 28.3L40.5 29.2L36.2 33.3L37.2 39.1L32 36.4L26.8 39.1L27.8 33.3L23.5 29.2L29.4 28.3L32 23Z" fill="#1C2A5C"/>
+</svg>
